@@ -18,4 +18,13 @@ class List
     {
         START = NULL;
     }
+
+
+    void addNode()
+    {
+        int nim;
+        cout << "\nMasukkan Nomor Mahasiswa:";
+        cin >> nim;
+
+    }
 };
